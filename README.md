@@ -1,3 +1,6 @@
+#Team: Clone this repo using git clone and then run on colab
+
+
 # SRDC: Semantics-Based Ransomware Detection and Classification with LLM-Assisted Pre-Training
 
 ## 🛡 Category
